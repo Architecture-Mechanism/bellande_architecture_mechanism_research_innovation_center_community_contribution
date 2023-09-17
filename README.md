@@ -1,1 +1,1 @@
-# algorithm-model-research.github.io
+# Algorithm Model Research Information Website
