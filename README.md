@@ -1,9 +1,9 @@
-# Bellande Robotics & Sensors Research Innovation Center Community Contribution
+# Bellande Architecture Mechanism Research Innovation Center Community Contribution
 
 # Organization Website
-- https://architecture-mechanism.github.io/
+- https://bellande-architecture-mechanism-research-innovation-center.org
 
-## Contribution in each aaterogy will be features in our BR&SRI Center Website
+## Contribution in each aaterogy will be features in our BAMRI Center Website
 - Pull request
 
 
